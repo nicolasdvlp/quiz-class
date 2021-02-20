@@ -1,0 +1,25 @@
+{
+  "name": "quiz-class",
+  "version": "1.0.0",
+  "description": "",
+  "main": "index.js",
+  "scripts": {
+    "sass": "sass --watch ./main.scss:./style.css"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/nicolasdvlp/quiz-class.git"
+  },
+  "keywords": [],
+  "author": "",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/nicolasdvlp/quiz-class/issues"
+  },
+  "homepage": "https://github.com/nicolasdvlp/quiz-class#readme",
+  "dependencies": {
+    "sass": "^1.32.8",
+    "serve": "^11.3.2",
+    "typescript": "^4.1.5"
+  }
+}
